@@ -1,6 +1,6 @@
 {
 	"name": "@dilos/preline",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Preline Fork to Test",
 	"main": "index.js",
 	"module": "./src/index.ts",
